@@ -69,5 +69,7 @@ Sekolahmu
 
 
     ##How to run test suites SekolahmuRegistrationLogin.robot
+        -open your VS Code
+        -Clone this repository
         -open terminal
         -type: robot SekolahmuRegistrationLogin.robot
