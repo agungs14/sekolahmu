@@ -68,6 +68,6 @@ Sekolahmu
         -Pip install robotframework-httplibrary
 
 
-###How to run test suites SekolahmuRegistrationLogin.robot
--open terminal
--type: robot SekolahmuRegistrationLogin.robot
+    ##How to run test suites SekolahmuRegistrationLogin.robot
+        -open terminal
+        -type: robot SekolahmuRegistrationLogin.robot
